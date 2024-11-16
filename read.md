@@ -1,0 +1,1 @@
+My first frontend project related to ceating a netflix platform replica using HTML, CSS and JavaScript.
